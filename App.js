@@ -47,7 +47,7 @@ const RECIPES = [
     rating: 4.9,
     servings: 3,
     image:
-      'https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800',
+      'https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.cookingcarnival.com%2Fvegetable-dum-biryani%2F&ved=0CBcQjRxqFwoTCLivq9yK05cDFQAAAAAdAAAAABA9&opi=89978449',
     description: 'Fragrant rice cooked with vegetables and aromatic spices.',
     ingredients: [
       '1 cup basmati rice',
